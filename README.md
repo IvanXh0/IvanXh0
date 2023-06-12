@@ -1,6 +1,5 @@
-# Hi there! 👋
 
-## I'm Ivan, an up and coming fullstack developer.
+# Hi there! I'm Ivan, an up and coming fullstack developer. 👋
 
 ## CodeSnippet: Store, Share, Compile Code Snippets
 
