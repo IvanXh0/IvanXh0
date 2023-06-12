@@ -1,6 +1,10 @@
 # Hi there! 👋
 
-I'm Ivan, an up and coming fullstack developer.
+## I'm Ivan, an up and coming fullstack developer.
+
+## CodeSnippet: Store, Share, Compile Code Snippets
+
+I'm excited to introduce you to [CodeSnippet](https://www.codesnippet.app), a platform I've developed for storing, sharing, and compiling code snippets. If you're looking for a convenient way to organize your code snippets, collaborate with others, or quickly test code, CodeSnippet has got you covered!
 
 ## Tech Stack
 
@@ -8,7 +12,7 @@ I'm Ivan, an up and coming fullstack developer.
 
 ## About Me
 
-- Turning imagination into reality, one line of code at a time!
+- I love creating and experimenting with new technologies, also bringing ideas into reality.
 - Constantly learning, growing, and expanding my skillset.
 - Let's connect and collaborate on exciting projects!
 
